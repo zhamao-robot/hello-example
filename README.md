@@ -1,7 +1,7 @@
 # hello-example
-各种类型文件的hello world版
+各种类型文件的 hello world 版
 
-此项目仅供不同种类的文件写一个最简单的demo。当然计算机的文件类型有千千万万种，目前这些还远远不够，欢迎提交 Pull requests 来扩充这个项目！
+此项目仅供不同种类的文件写一个最简单的 demo。当然计算机的文件类型有千千万万种，目前这些还远远不够，欢迎提交 Pull requests 来扩充这个项目！
 
 你也可以在 https://zhamao.xin/file/hello.{后缀名} 下载这些文件。
 
