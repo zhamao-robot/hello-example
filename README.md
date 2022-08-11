@@ -10,5 +10,9 @@
 
 类似 example.com 这样的域名，这里提供文件。
 
+## 类似项目
+
+本项目更侧重于一些常见应用程序文件的示例文件，如果你想要编程语言层面更全的 Hello World，可以到 <https://github.com/leachim6/hello-world> 查看并下载。
+
 ## 关于
 协议为 `WTFPL`，你想干啥就干啥，不服来打一架！
